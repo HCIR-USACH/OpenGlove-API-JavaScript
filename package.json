@@ -1,0 +1,29 @@
+{
+  "name": "openglove",
+  "version": "1.0.0",
+  "description": "JavaScript API for OpenGlove powered decives",
+  "main": "openGlove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCIR-USACH/OpenGlove-API-JavaScript.git"
+  },
+  "keywords": [
+    "arduino",
+    "javascript",
+    "api",
+    "nodejs",
+    "openglove"
+  ],
+  "author": "Rodrigo Monsalve Lagos <rodrigo.monsalve.lagos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HCIR-USACH/OpenGlove-API-JavaScript/issues"
+  },
+  "homepage": "https://github.com/HCIR-USACH/OpenGlove-API-JavaScript#readme",
+  "dependencies": {
+    "serialport": "^4.0.1"
+  }
+}
