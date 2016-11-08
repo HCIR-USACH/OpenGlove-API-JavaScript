@@ -1,5 +1,6 @@
 # OpenGlove-API-JavaScript
 
+## Example
 ```javascript
 var openGlove = require('../OpenGlove/glove');
 var glove = new openGlove();
