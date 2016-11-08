@@ -11,8 +11,8 @@ glove.openPort("COM3",9600);
 
 glove.on("open",function(){
 	
-	glove.initializeMotor(positivePins);		
-	glove.activateMotor(positivePins,values);
+	glove.initializeMotor(pins);		
+	glove.activateMotor(pins, valuesON);
 
 });
 
